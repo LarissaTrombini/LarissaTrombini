@@ -110,7 +110,7 @@ Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvime
     alt="GitHub Statistics" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=LarissaTrombini&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=Minhas%20Estatísticas%20do%20GitHub"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=LarissaTrombini&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=Minhas%20Estatísticas%20do%20GitHub"
   />
 
   <img 
@@ -123,7 +123,6 @@ Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvime
 </p>
 
 <br clear="both"/>
-
 
 ---
 
