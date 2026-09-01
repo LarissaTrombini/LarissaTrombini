@@ -137,8 +137,13 @@ Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvime
     />
 </a>
 
-</p>
+<a href="https://wa.me/5511998746075">
+    <img 
+        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    />
+</a>
 
+</p>
 ---
 
 <p align="center">
