@@ -107,17 +107,12 @@ Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvime
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LarissaTrombini&theme=tokyonight"
-    width="32%"
+    width="48%"
   />
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LarissaTrombini&theme=tokyonight"
-    width="32%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LarissaTrombini&theme=tokyonight"
-    width="32%"
+    width="48%"
   />
 
 </p>
