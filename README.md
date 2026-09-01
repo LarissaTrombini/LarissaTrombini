@@ -10,35 +10,25 @@ Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvime
 
 <p align="left">
     <a href="https://github.com/LarissaTrombini">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
             src="https://custom-icon-badges.demolab.com/github/followers/LarissaTrombini?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 
-  <p align="left">
-
-    <a href="https://github.com/LarissaTrombini?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LarissaTrombini?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-
-    <a href="https://github.com/LarissaTrombini?tab=repositories&sort=stargazers">
-        <img 
-            alt="Estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LarissaTrombini?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+```
+<a href="https://github.com/LarissaTrombini?tab=repositories&sort=stargazers">
+    <img
+        alt="Estrelas"
+        title="Total de estrelas no GitHub"
+        src="https://custom-icon-badges.demolab.com/github/stars/LarissaTrombini?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
+</a>
+```
 
 </p>
-</p>
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
