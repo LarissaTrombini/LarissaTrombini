@@ -106,35 +106,21 @@ Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvime
 <p align="center">
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LarissaTrombini&theme=tokyonight"
-    width="100%"
-  />
-
-</p>
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LarissaTrombini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
-    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LarissaTrombini&theme=tokyonight"
+    width="32%"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaTrombini&layout=compact&theme=tokyonight&langs_count=8&locale=pt-br"
-    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LarissaTrombini&theme=tokyonight"
+    width="32%"
   />
-
-</p>
-
-<p align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=LarissaTrombini&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LarissaTrombini&theme=tokyonight"
+    width="32%"
   />
 
 </p>
-
 ---
 
 ### 📫 Contato
