@@ -122,11 +122,7 @@ Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvime
 
 </p>
 
-<br/>
-<br/>
-<br/>
-  
-
+<br clear="both"/>
 
 
 ---
