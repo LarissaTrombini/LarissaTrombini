@@ -143,25 +143,6 @@ Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvime
 - 🤖 Automação
 - 🚀 Desenvolvimento de Projetos
 
----
-
-### 🚀 Projetos
-
-#### 📍 Mapa de Problemas Urbanos
-
-Projeto acadêmico desenvolvido com o objetivo de permitir que usuários registrem problemas encontrados em diferentes locais da cidade.
-
-Entre os problemas que podem ser registrados:
-
-- 🕳️ Ruas esburacadas
-- 💡 Falta de iluminação
-- 🚶 Falta de calçadas
-- 🚦 Problemas de sinalização
-- 🗑️ Problemas de infraestrutura urbana
-
-A proposta é facilitar a identificação desses problemas e possibilitar uma visualização organizada através de um mapa.
-
----
 
 ### 📊 Estatísticas
 
