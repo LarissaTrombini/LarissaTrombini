@@ -100,53 +100,40 @@ Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvime
 
 ---
 
-### 💻 Áreas de interesse
 
-- 🌐 Desenvolvimento Web
-- 🐍 Desenvolvimento com Python
-- 🗄️ Banco de Dados e SQL
-- 🤖 Automação de processos
-- 🖥️ Desenvolvimento de sistemas
-- 🔧 Suporte técnico
-- 📱 Desenvolvimento de aplicações
-- 🚀 Projetos e soluções tecnológicas
+### 📊 Estatísticas do GitHub
 
----
+<p align="center">
 
-### 📚 Atualmente estudando
-
-🎓 **Análise e Desenvolvimento de Sistemas**
-
-- 💻 Programação
-- 🗄️ Banco de Dados
-- 🌐 Desenvolvimento Web
-- 🔧 Engenharia de Software
-- 🤖 Automação
-- 🚀 Desenvolvimento de Projetos
-
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LarissaTrombini&theme=tokyonight"
+    width="100%"
   />
 
-  <img 
-    align="left" 
-    alt="Tecnologias mais utilizadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 </p>
 
-<br/>
-<br/>
-<br/>
+<p align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LarissaTrombini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaTrombini&layout=compact&theme=tokyonight&langs_count=8&locale=pt-br"
+    height="180"
+  />
+
+</p>
+
+<p align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=LarissaTrombini&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
+
+</p>
 
 ---
 
