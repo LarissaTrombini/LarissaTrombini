@@ -8,16 +8,8 @@ Atuo com **suporte técnico e sistemas**, tendo contato com diferentes tecnologi
 
 Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvimento de software, buscando construir projetos e ampliar minha experiência na área de tecnologia.
 
-<p align="left">
-    <a href="https://github.com/LarissaTrombini">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/LarissaTrombini?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="left"> <a href="https://github.com/LarissaTrombini"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/LarissaTrombini?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a>
 
-```
 <a href="https://github.com/LarissaTrombini?tab=repositories&sort=stargazers">
     <img
         alt="Estrelas"
@@ -25,7 +17,6 @@ Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvime
         src="https://custom-icon-badges.demolab.com/github/stars/LarissaTrombini?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
     />
 </a>
-```
 
 </p>
 
